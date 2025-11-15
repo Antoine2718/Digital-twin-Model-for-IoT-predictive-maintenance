@@ -1,4 +1,5 @@
-# Digital twin Model for IoT predictive maintenance
+# Model for IoT predictive maintenance
+### This model includes IoT sequential data loading, feature engineering, a hybrid digital twin (learning + simplified physical model), multitasking training (RUL regression + breakdown classification), evaluation and inference. The project includes a synthetic data generator to test without proprietary dataset.
 
 This project implements a hybrid digital twin combining:
 
